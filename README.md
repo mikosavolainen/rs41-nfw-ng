@@ -68,6 +68,8 @@ For more details about HAB and sonde hunting, please look on google and social m
 A thorough, detailed project guide is available at the links below.<br>
 **If you want to fully utilize all capabilities of this firmware**, please, read the documentation in the following header order:
 
+## Firmiksen asennus
+See: [fw/ASENNUS.md](./fw/ASENNUS.md)
 
 ## Firmware flashing
 See: [fw/FLASHING.md](./fw/FLASHING.md)
